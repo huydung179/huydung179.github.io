@@ -10,15 +10,15 @@ author:
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://huydung179.github.io
-disqus: 'justgoodthemes'
+disqus: 'mine'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics: 
 
 # Contact form setings
 email: huydung.ng.179@gmail.com
-contact_page_description: "Not implemented."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+contact_page_description: "If you have any question, please tell me by filling in the form bellow."
+thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
 # twitter: 'justgoodthemes'
