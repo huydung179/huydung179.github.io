@@ -1,23 +1,23 @@
 # Site setings
-name: 'Royce'
-description: 'Web Developer'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'Huy-Dung NGUYEN'
+description: 'AI Developer'
+meta_description: 'AI Blogger'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "Hi there! My name is Huy-Dung NGUYEN. I'm a PhD in Mediacal Image Processing using Deep Learning at University of Bordeaux, France. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://royce.netlify.com/
+production_url: https://huydung179.github.io
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics: 
 
 # Contact form setings
-email: youremail@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+email: huydung.ng.179@gmail.com
+contact_page_description: "Not implemented."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
